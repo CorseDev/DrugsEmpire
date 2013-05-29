@@ -1,0 +1,5 @@
+name: DrugsEmpire
+version: 1.4.1
+description: Drugs Plugin
+author: CaptainInflamo
+main: com.pleapvp.drugs.Main
